@@ -210,7 +210,7 @@ class Produk_model extends CI_Model
 		return $d;
 	}
 	
-	function promo_add($promoID,$judul,$deskripsi,$nilai,$mulai,$selesai)
+	function promo_add($judul,$deskripsi,$nilai,$mulai,$selesai)
 	{
 		$s=array(
 		'promo_id'=>$promoID,
@@ -218,7 +218,7 @@ class Produk_model extends CI_Model
 		if($this->m_db->is_bof('promo',$s)==TRUE)
 		{
 			$d=array(
-			'promo_id'=>$promoID,
+			//'promo_id'=>$promoID,
 			'judul'=>$judul,
 			'deskripsi'=>$deskripsi,
 			'nilai'=>$nilai,
