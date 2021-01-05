@@ -61,7 +61,12 @@ $menu=array(
 	'Laporan'=>array(		
 		'icon'=>'fa fa-file-o',
 		'slug'=>'laporan',
-		'child'=>array(				
+		'child'=>array(	
+				'AllPenjualan'=>array(
+					'icon'=>'fa fa-circle-o',
+					'url'=>base_url(akses())."/laporan/allpenjualan",
+					'target'=>"",
+					),			
 				'Penjualan'=>array(
 					'icon'=>'fa fa-circle-o',
 					'url'=>base_url(akses())."/laporan/penjualan",

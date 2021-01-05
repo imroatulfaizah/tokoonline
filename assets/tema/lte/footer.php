@@ -10,9 +10,9 @@
 
   <footer class="main-footer">
     <div class="pull-right hidden-xs">
-      <b>Version</b> 1.2
+      <b>Version</b> 1.1
     </div>
-    <strong>Copyright &copy; 2017-2018 <a href="http://idaregdiyanti.com">Toko Online</a>.</strong> All rights
+    <strong>Copyright &copy; 2020-2021 <a href="flobamora">Toko Online</a>.</strong> All rights
     reserved.
   </footer>
 

@@ -16,9 +16,9 @@
 					<img src="<?=base_url();?>assets/kop.png" class="img-responsive" style="width: 100px;"/> <br />
 				</div>
 				<div class="col-md-8">
-					<h4>TOKO Online </h4>
-					Jalan Rasuna Said No. 46 C, Jakarta<br/>
-					Telp. 021-224453, Email : toko-online@gmail.com
+					<h4>Toko Online Flobamora </h4>
+					Jl.Raya Langsep No 2 Malang, Cybermall<br/>
+					Telp. 0274-98923, Email : flobamoracomputer@gmail.com
 				</div>
 			</div>
 		</div>

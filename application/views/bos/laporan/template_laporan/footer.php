@@ -2,7 +2,7 @@
 		<div class="footer-laporan text-center">
 			<div class="row">
 				<div class="col-md-5 pull-right">
-					Padang, <?=date("d-m-Y");?><br/>
+					Malang, <?=date("d-m-Y");?><br/>
 					<?php
 					$bosID=field_value('userlogin','akses','bos','nama');
 					?>
